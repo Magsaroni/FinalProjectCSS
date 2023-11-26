@@ -1,0 +1,27 @@
+body {
+background-color: rgb(28, 0, 31);
+}
+header {
+    font-size:xxx-large;
+    color: blueviolet;
+    font-family:cursive;
+    text-align: center;
+}
+h2 {
+    font-size:large;
+font-family: monospace;
+color: blueviolet;
+text-align: center;
+}
+h3 {
+font-size: large;
+font-family: monospace;
+color: blueviolet;
+text-align: center;
+margin: 15%
+}
+button {
+    color: blueviolet;
+    font-size: x-large;
+    margin-top: 12cqb;
+}
